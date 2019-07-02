@@ -11,10 +11,11 @@ One day, I was fascinated to Kinect, which is a camera that calculates how far t
 
 ### RawData
 
-<video src="/Users/masumi.morishige/Downloads/Monocular_Depth_Measurement/raw_data.mov"></video>
+<video src="./raw_data.mov"></video>
 
 
 
 ### DepthData
 
-<video src="/Users/masumi.morishige/Downloads/Monocular_Depth_Measurement/laplacian_filter.mov"></video>
+<video src="./laplacian_filter.mov"></video>
+
