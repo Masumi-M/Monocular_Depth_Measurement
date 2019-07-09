@@ -18,4 +18,3 @@ One day, I was fascinated to Kinect, which is a camera that calculates how far t
 ### DepthData
 
 <video src="./laplacian_filter.mov"></video>
-
